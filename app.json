@@ -1,13 +1,12 @@
 {
-      "name": "Fallen Robot",
+      "name": "Articuno Bot",
       "description": "Telegram Group Management Bot.",
-      "logo": "https://telegra.ph/file/72e135da30a1a349f2844.jpg",
+      "logo": "https://te.legra.ph/file/293cb2638b84702fd9e6a.jpg",
       "keywords": [
          "telegram",
-         "sexy",
          "group",
          "manager",
-         "Fallen"
+         "Articuno"
       ],   
    "repository": "https://github.com/Tysonuserbots/Articunobot",
    "addons": [
