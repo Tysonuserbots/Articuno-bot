@@ -6,8 +6,7 @@
          "telegram",
          "group",
          "manager",
-         "Articuno"
-      ],   
+         "Articuno"],   
    "repository": "https://github.com/Tysonuserbots/Articunobot",
    "addons": [
       {
